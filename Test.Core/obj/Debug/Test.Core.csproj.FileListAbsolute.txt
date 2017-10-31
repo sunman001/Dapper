@@ -1,0 +1,5 @@
+F:\c#基础测试\framework\framework\Test.Core\bin\Debug\Test.Core.dll
+F:\c#基础测试\framework\framework\Test.Core\bin\Debug\Test.Core.pdb
+F:\c#基础测试\framework\framework\Test.Core\obj\Debug\Test.Core.dll
+F:\c#基础测试\framework\framework\Test.Core\obj\Debug\Test.Core.pdb
+F:\c#基础测试\framework\framework\Test.Core\obj\Debug\Test.Core.csprojResolveAssemblyReference.cache

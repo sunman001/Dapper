@@ -1,0 +1,4 @@
+F:\c#基础测试\framework\framework\Infrastructure\bin\Debug\Infrastructure.dll
+F:\c#基础测试\framework\framework\Infrastructure\bin\Debug\Infrastructure.pdb
+F:\c#基础测试\framework\framework\Infrastructure\obj\Debug\Infrastructure.dll
+F:\c#基础测试\framework\framework\Infrastructure\obj\Debug\Infrastructure.pdb

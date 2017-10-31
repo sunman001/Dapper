@@ -1,0 +1,16 @@
+F:\c#基础测试\framework\framework\Test.Repositories\obj\Debug\Test.Repositories.csprojResolveAssemblyReference.cache
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Test.Repositories.dll
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Test.Repositories.pdb
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Dapper.Contrib.dll
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Dapper.Data.dll
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Dapper.dll
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Dapper.Extension.dll
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Infrastructure.dll
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Test.Core.dll
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Infrastructure.pdb
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Test.Core.pdb
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Dapper.xml
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Dapper.Contrib.pdb
+F:\c#基础测试\framework\framework\Test.Repositories\bin\Debug\Dapper.Contrib.xml
+F:\c#基础测试\framework\framework\Test.Repositories\obj\Debug\Test.Repositories.dll
+F:\c#基础测试\framework\framework\Test.Repositories\obj\Debug\Test.Repositories.pdb
